@@ -1,6 +1,6 @@
-# DIO---DESAFIO-GIT-HUB---PRIMEIRO-REPOSITORIO
-desafio de projeto GIT e GIT HUB
+# DIO---DESAFIO-GIT-HUB-
+REPOSITRIO CRIADO PARA O PROJETO
 
 
 ## LINKS UTEIS 
-[SINTESE BASICA MARKDONW (https://www.markdownguide.org/basic-syntax/)
+[SINTESE MARKDOWN] (https://www.markdownguide.org/basic-syntax/)
