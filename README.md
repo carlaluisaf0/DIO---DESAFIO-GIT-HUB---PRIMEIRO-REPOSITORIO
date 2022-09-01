@@ -2,5 +2,5 @@
 REPOSITRIO CRIADO PARA O PROJETO
 
 
-## LINKS UTEIS 
-[SINTESE MARKDOWN] (https://www.markdownguide.org/basic-syntax/)
+## LINKS ÚTEIS
+[MARKDOWN](https://www.markdownguide.org/basic-syntax/)
